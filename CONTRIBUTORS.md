@@ -28,7 +28,13 @@ Name: [Aaron Shivers](https://github.com/aaronshivers)
 Place: Missouri
 About: Hi, I'm just getting started.
 Programming Language: JavaScript
-Email: aaronshivers@gmail.com
+Email: aaronshivers@gmail.com<br/>
+
+Name: [Ali Akber Faiz](https://github.com/aliakberfaiz)<br/>
+Place: Raipur <br/>
+About: A passionate programmer<br/>
+Programming Language: c,node.js,javascript,Python and C++<br/>
+Email: aliakbar.faiz@gmail.com<br/>
 
 Name: [Lee T](https://github.com/leeturnbill)
 Place: Tennessee
